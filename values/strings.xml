@@ -1,76 +1,76 @@
-<resources>
-    <string name="app_name">Idle World</string>
-    <string name="title_activity_login">Sign in</string>
+<ресурси>
+    <string name="app_name">дозвільний світ</string>
+    <string name="title_activity_login">зареєструватися</string>
 
-    <!-- Values -->
-    <string name="zero">0</string>
+    <!-- значення -->
+    <string name="zero">нуль</string>
     <string name="base_multiplier">1.0</string>
     <string name="double_multiplier">2.0</string>
     <string name="x">x</string>
-    <string name="left_arrow" translatable="false">◀</string>
-    <string name="right_arrow" translatable="false">▶</string>
+    <string name="left_arrow" translatable="false">ліва клавіша</string>
+    <string name="right_arrow" translatable="false">права клавіша</string>
 
     <!-- Button states -->
-    <string name="cancel">Cancel</string>
-    <string name="close">Close</string>
+    <string name="cancel">скасувати</string>
+    <string name="close">закрити</string>
     <string name="ok">OK</string>
 
-    <!-- Failed state restore -->
-    <string name="failed_restore_title">I\'m sorry</string>
-    <string name="failed_restore_body">Your universe has been reset because of major game changes. Future versions will do their best to avoid this situations.</string>
+    <!-- не вдалося відновити стан -->
+    <string name="failed_restore_title">вибачте</string>
+    <string name="failed_restore_body">твій світ буде відрегульований через зміни у грі.майбутні оновлення будуть кращими щоб уникнути цих ситуацій.</string>
 
-    <!-- Validation -->
-    <string name="username_invalid">Username invalid, only letters and numbers</string>
-    <string name="username_taken">Username already taken</string>
-    <string name="username_empty">Username empty</string>
+    <!-- затвердження -->
+    <string name="username_invalid">нік неправильний, тільки букви і числа</string>
+    <string name="username_taken">такий нік вже існує</string>
+    <string name="username_empty">нік вільний</string>
 
     <!-- Strings related to login -->
-    <string name="prompt_email">Username</string>
-    <string name="prompt_password">Password (optional)</string>
-    <string name="action_sign_in">Login</string>
-    <string name="login_to_see_highscores">Login to see highscores</string>
-    <string name="you_can_enter_password">You can enter password to access your user account from other devices</string>
-    <string name="username_will_register">Username will register if it was not used before</string>
+    <string name="prompt_email">нік</string>
+    <string name="prompt_password">пароль (необов`язково)</string>
+    <string name="action_sign_in">увійти</string>
+    <string name="login_to_see_highscores">увійти об подивитися рекорди</string>
+    <string name="you_can_enter_password">ти можеш ввести пароль щоб приєднати свій акаунт до інших девайсів</string>
+    <string name="username_will_register">нік зареєстровано якщо він не використовувався до цього</string>
 
     <!-- Strings related to instructions -->
-    <string name="if_element_glows">Glowing elements can be bought by spending <b>Resources</b>.</string>
-    <string name="each_element">Each element gives you <b>Resources</b> to grow it more</string>
-    <string name="grow_your_world">Grow your world from <b>Atoms</b> to entire <b>Galaxy</b></string>
-    <string name="more_energy_you_have">The more elements you have, more resource income you have</string>
-    <string name="more_resources">There are many resources you need to collect</string>
-    <string name="last_part">Last part</string>
-    <string name="new_elements_construction">You can unlock new elements in construction tab</string>
-    <string name="world_grows_idle">Your world grows even if you leave the game!</string>
-    <string name="check_leaderboard">Don\'t forget to check your progress in leaderboard</string>
-    <string name="build_it">Build it</string>
-    <string name="skip"><![CDATA[Skip >>]]></string>
-    <string name="welcome">Welcome</string>
-    <string name="universe_awaits">Your universe awaits</string>
-    <string name="down_arrow">▼</string>
-    <string name="next">Next</string>
+    <string name="if_element_glows">Сяючі елементи можна придбати витрачаючи <b>ресурси</b>.</string>
+    <string name="each_element">кожен елемент дає тобі <b>ресурси</b> щоб їх стало більше</string>
+    <string name="grow_your_world">вирости свій світ від  <b>атомів</b> до цілої <b>галактики</b></string>
+    <string name="more_energy_you_have">чим більше елементів ти маєш,тим більше ресурсів</string>
+    <string name="more_resources">тут є багато ресурсів які ти маєш колекціонувати</string>
+    <string name="last_part">остання частина</string>
+    <string name="new_elements_construction">ти можеш відкрити нові елементи в конструкційній закладці</string>
+    <string name="world_grows_idle">твій світ росте навіть коли ти покидаєш гру!</string>
+    <string name="check_leaderboard">ytpf,elm >незабудь перевіряти свій прогрес в таблиці рекордів </string>
+    <string name="build_it">збудуй це</string>
+<string name="skip"><![ >пропустити</string>
+    <string name="welcome">вітаю</string>
+    <string name="universe_awaits">твій світ чекає</string>
+    <string name="down_arrow">вниз</string>
+    <string name="next">продовжити</string>
 
     <!-- Settings activity -->
-    <string name="view_instructions">Game help</string>
-    <string name="instructions">Instructions</string>
-    <string name="background_music">Background music</string>
-    <string name="energy_display_type">Resource display type</string>
-    <string name="long_numbers">Long numbers</string>
-    <string name="scientific_notation">Scientific notation</string>
-    <string name="preview_small">Preview small:</string>
-    <string name="preview_big">Preview big:</string>
-    <string name="cloud_sync_coming_soon">Cloud Sync</string>
-    <string name="change_it_display_type">You can also click on any number to change it display type.</string>
-    <string name="thanks_for">Thanks for:</string>
-    <string name="icons_source_icons8">Icons source : Icons8</string>
-    <string name="image_source_unsplash">Image source : Unsplash</string>
-    <string name="language">Language</string>
-    <string name="translation_halil_kopuz">Translation TR: <b>Halil Kopuz, Deniz Kağan Dursun</b></string>
-    <string name="translation_tony">Translation FR: <b>Tony A. "Gorska"</b></string>
-    <string name="translation_robert">Translation DE: <b>Robert B. Lavars</b>, <b>Thomas Kupka</b></string>
-    <string name="translation_vasil">Translation RU: <b>VasilRaven, Reindee</b></string>
-    <string name="translation_zsemi">Translation HU: <b>zsemi02</b></string>
-    <string name="translation_joao">Translation BR: <b>João Paulo</b></string>
-    <string name="translation_thedashcolour">Translation IT: <b>Thedashcolour</b></string>
+    <string name="view_instructions">допомога</string>
+    <string name="instructions">інструкції</string>
+    <string name="background_music">фонова музика</string>
+    <string name="energy_display_type">тип дисплею ресурсів</string>
+    <string name="long_numbers">довгі числа</string>
+    <string name="scientific_notation">наукові позначення</string>
+    <string name="preview_small">невеликий попередній перегляд:</string>
+    <string name="preview_big">великий перегляд:</string>
+    <string name="cloud_sync_coming_soon">хмарна синхронізація</string>
+    <string name="change_it_display_type">ти також можеш вибрати будь-яке число щоб змінити тип дисплею.</string>
+    <string name="thanks_for">дякую за:</string>
+    <string name="icons_source_icons8">основа значків : значки8</string>
+    <string name="image_source_unsplash">джерело зображення : розтирати</string>
+    <string name="language">мова</string>
+    <string name="translation_halil_kopuz">переклад TR: <b>Halil Kopuz, Deniz Kağan Dursun</b></string>
+    <string name="translation_tony">переклад FR: <b>Tony A. "Gorska"</b></string>
+    <string name="translation_robert">переклад DE: <b>Robert B. Lavars</b>, <b>Thomas Kupka</b></string>
+    <string name="translation_vasil">переклад RU: <b>VasilRaven, Reindee</b></string>
+    <string name="translation_zsemi">переклад HU: <b>zsemi02</b></string>
+    <string name="translation_joao">переклад BR: <b>João Paulo</b></string>
+    <string name="translation_thedashcolour">переклад IT: <b>Thedashcolour</b></string>
     <string name="translation_dejan">Translation BA: <b>Dejan Misic</b></string>
     <string name="translation_majestangel">Translation ES: <b>MajestAngel</b></string>
     <string name="translation_roman">Translation CZ: <b>Roman Vietze</b></string>
