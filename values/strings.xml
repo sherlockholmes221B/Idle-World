@@ -1,107 +1,107 @@
 <resources>
-    <string name="app_name">Idle World</string>
-    <string name="title_activity_login">Sign in</string>
+    <string name="app_name">дозвільний світ</string>
+    <string name="title_activity_login">увійти/string>
 
     <!-- Values -->
-    <string name="zero">0</string>
+    <string name="zero">нуль</string>
     <string name="base_multiplier">1.0</string>
     <string name="double_multiplier">2.0</string>
     <string name="x">x</string>
-    <string name="left_arrow" translatable="false">◀</string>
-    <string name="right_arrow" translatable="false">▶</string>
+    <string name="left_arrow" translatable="false">ліва кнопка</string>
+    <string name="right_arrow" translatable="false">права кнопка</string>
 
     <!-- Button states -->
-    <string name="cancel">Cancel</string>
-    <string name="close">Close</string>
-    <string name="ok">OK</string>
+    <string name="cancel">скасувати</string>
+    <string name="close">закрити</string>
+    <string name="ok">гаразд</string>
 
     <!-- Failed state restore -->
-    <string name="failed_restore_title">I\'m sorry</string>
-    <string name="failed_restore_body">Your universe has been reset because of major game changes. Future versions will do their best to avoid this situations.</string>
+    <string name="failed_restore_title">вибачте</string>
+    <string name="failed_restore_body">твій світ буде змінено у зв'язку з змінами у грі.Майбутні онвлення будуть кращими щоб уникнути цих ситуацій.</string>
 
     <!-- Validation -->
-    <string name="username_invalid">Username invalid, only letters and numbers</string>
-    <string name="username_taken">Username already taken</string>
-    <string name="username_empty">Username empty</string>
+    <string name="username_invalid">ім'я користувача неправильне використовуйте тільки літери та числа</string>
+    <string name="username_taken">ім'я користувача вже існує</string>
+    <string name="username_empty">ім'я користувача вільне</string>
 
     <!-- Strings related to login -->
-    <string name="prompt_email">Username</string>
-    <string name="prompt_password">Password (optional)</string>
-    <string name="action_sign_in">Login</string>
-    <string name="login_to_see_highscores">Login to see highscores</string>
-    <string name="you_can_enter_password">You can enter password to access your user account from other devices</string>
-    <string name="username_will_register">Username will register if it was not used before</string>
+    <string name="prompt_email">ім'я користувача</string>
+    <string name="prompt_password">пароль (необов'язково)</string>
+    <string name="action_sign_in">зареєструватися</string>
+    <string name="login_to_see_highscores">зареєструйтеся щоб подивитися таблицю рекордів</string>
+    <string name="you_can_enter_password">ти можеш ввести пароль щоб приєднати свій акаунт до інших пристроїв</string>
+    <string name="username_will_register">ім'я користувача буде зареєстровано ящо воно не використовувадось до цього часу</string>
 
     <!-- Strings related to instructions -->
-    <string name="if_element_glows">Glowing elements can be bought by spending <b>Resources</b>.</string>
-    <string name="each_element">Each element gives you <b>Resources</b> to grow it more</string>
-    <string name="grow_your_world">Grow your world from <b>Atoms</b> to entire <b>Galaxy</b></string>
-    <string name="more_energy_you_have">The more elements you have, more resource income you have</string>
-    <string name="more_resources">There are many resources you need to collect</string>
+    <string name="if_element_glows">сяючі елементи можуть бути куплені за ресурси.</string>
+    <string name="each_element">кожен елемент дає тобі <b>ресурси</b> щоб розвиватися</string>
+    <string name="grow_your_world">вирости свій світ від <b>атомів</b> до цілої <b>галактики</b></string>
+    <string name="more_energy_you_have">чим більше елементів ти маєш,тим більше ресурсів</string>
+    <string name="more_resources">тут є багато які тобі потрібно колекціонувати</string>
     <string name="last_part">Last part</string>
-    <string name="new_elements_construction">You can unlock new elements in construction tab</string>
-    <string name="world_grows_idle">Your world grows even if you leave the game!</string>
-    <string name="check_leaderboard">Don\'t forget to check your progress in leaderboard</string>
-    <string name="build_it">Build it</string>
-    <string name="skip"><![CDATA[Skip >>]]></string>
-    <string name="welcome">Welcome</string>
-    <string name="universe_awaits">Your universe awaits</string>
-    <string name="down_arrow">▼</string>
-    <string name="next">Next</string>
+    <string name="new_elements_construction">ти можеш розблокувати нові елемети в вкладці "будівництво"</string>
+    <string name="world_grows_idle">твій світ росте навіть коли ти покидаєш гру!</string>
+    <string name="check_leaderboard">не забудь перевіряти свій прогрес в таблиці рекордів</string>
+    <string name="build_it">створити</string>
+    <string name="skip"><![CDATA[Skip >>]]>пропустити</string>
+    <string name="welcome">вітаю</string>
+    <string name="universe_awaits">твій світ чекає</string>
+    <string name="down_arrow">кнопка вниз</string>
+    <string name="next">продовжити</string>
 
     <!-- Settings activity -->
-    <string name="view_instructions">Game help</string>
-    <string name="instructions">Instructions</string>
-    <string name="background_music">Background music</string>
-    <string name="energy_display_type">Resource display type</string>
-    <string name="long_numbers">Long numbers</string>
-    <string name="scientific_notation">Scientific notation</string>
-    <string name="preview_small">Preview small:</string>
-    <string name="preview_big">Preview big:</string>
-    <string name="cloud_sync_coming_soon">Cloud Sync</string>
-    <string name="change_it_display_type">You can also click on any number to change it display type.</string>
-    <string name="thanks_for">Thanks for:</string>
+    <string name="view_instructions">допомога</string>
+    <string name="instructions">інструкція</string>
+    <string name="background_music">фонова музика</string>
+    <string name="energy_display_type">тип дисплею</string>
+    <string name="long_numbers">довгі числа</string>
+    <string name="scientific_notation">наукові позначення</string>
+    <string name="preview_small">малі числа:</string>
+    <string name="preview_big">великі числа:</string>
+    <string name="cloud_sync_coming_soon">хмарна синхронізація</string>
+    <string name="change_it_display_type">ти можеш вибрати будь-яке число щоб обрати тип дисплею.</string>
+    <string name="thanks_for">дякую:</string>
     <string name="icons_source_icons8">Icons source : Icons8</string>
     <string name="image_source_unsplash">Image source : Unsplash</string>
-    <string name="language">Language</string>
-    <string name="translation_halil_kopuz">Translation TR: <b>Halil Kopuz, Deniz Kağan Dursun</b></string>
-    <string name="translation_tony">Translation FR: <b>Tony A. "Gorska"</b></string>
-    <string name="translation_robert">Translation DE: <b>Robert B. Lavars</b>, <b>Thomas Kupka</b></string>
-    <string name="translation_vasil">Translation RU: <b>VasilRaven, Reindee</b></string>
-    <string name="translation_zsemi">Translation HU: <b>zsemi02</b></string>
-    <string name="translation_joao">Translation BR: <b>João Paulo</b></string>
-    <string name="translation_thedashcolour">Translation IT: <b>Thedashcolour</b></string>
-    <string name="translation_dejan">Translation BA: <b>Dejan Misic</b></string>
-    <string name="translation_majestangel">Translation ES: <b>MajestAngel</b></string>
-    <string name="translation_roman">Translation CZ: <b>Roman Vietze</b></string>
-    <string name="translation_majida">Translation ZH: <b>Majida Whale</b></string>
+    <string name="language">мова</string>
+    <string name="translation_halil_kopuz">переклад турецько: <b>Halil Kopuz, Deniz Kağan Dursun</b></string>
+    <string name="translation_tony">переклад французькою: <b>Tony A. "Gorska"</b></string>
+    <string name="translation_robert">переклад данською: <b>Robert B. Lavars</b>, <b>Thomas Kupka</b></string>
+    <string name="translation_vasil">переклад російською: <b>VasilRaven, Reindee</b></string>
+    <string name="translation_zsemi">переклад угорською: <b>zsemi02</b></string>
+    <string name="translation_joao">переклад португальською: <b>João Paulo</b></string>
+    <string name="translation_thedashcolour">переклад італійською: <b>Thedashcolour</b></string>
+    <string name="translation_dejan">переклад бакширською: <b>Dejan Misic</b></string>
+    <string name="translation_majestangel">переклад іспанською: <b>MajestAngel</b></string>
+    <string name="translation_roman">переклад чеською: <b>Roman Vietze</b></string>
+    <string name="translation_majida">переклад китайською: <b>Majida Whale</b></string>
 
     <!-- Black hole dialog -->
-    <string name="blackhole_confirm">Are you sure?</string>
-    <string name="blackhole_warning_body">Your income will grow but your universe will be erased. Your score will remain.</string>
-    <string name="blackhole_too_slow">Too slow? Check out Black Hole Multiplier</string>
-    <string name="blackholeMultiplikator">Black Hole Multiplier</string>
+    <string name="blackhole_confirm">ти впевнений?</string>
+    <string name="blackhole_warning_body">твій дохід буде рости але твій світ буде знищений. твій рахунок збережеться.</string>
+    <string name="blackhole_too_slow">надто тяжко? перевір множник Чорна діра</string>
+    <string name="blackholeMultiplikator">множник Чорна Діра</string>
 
     <!-- Construction results -->
-    <string name="bought_body">Congratulations, new elemental tree has been constructed</string>
-    <string name="bought_title">Constructed</string>
-    <string name="not_enough_energy_body">You need to gain more resources to construct this</string>
-    <string name="not_enough_energy_title">Not enough resources</string>
-    <string name="missing_requirements_body">Some requirements have not been fulfilled, check if you have all of them</string>
-    <string name="missing_requirements_title">Missing requirements</string>
-    <string name="unexpected_body">Unexpected construction, universe is still evolving</string>
-    <string name="unexpected_title">Entropy</string>
+    <string name="bought_body">вітаємо,створено нове дерево елементів</string>
+    <string name="bought_title">створено</string>
+    <string name="not_enough_energy_body">ти мусиш заробити бульше ресурсів щоб відкрити це</string>
+    <string name="not_enough_energy_title">недостатньо ресурсів</string>
+    <string name="missing_requirements_body">деякі вимоги не виконані перевірте чи всі зроблені</string>
+    <string name="missing_requirements_title">відсутні вимоги</string>
+    <string name="unexpected_body">будівництво неможливе,світ все ще розвивається</string>
+    <string name="unexpected_title">Ентропія</string>
 
     <!-- Ads -->
-    <string name="income_doubled">Your idle income has been doubled</string>
-    <string name="ad_unavailable_body">Space time continuum endangered, time warp currently unavailable. Try again later.</string>
-    <string name="ad_unavailable_title">Danger.</string>
+    <string name="income_doubled">Your твій дозвільний дохід буде подвоєно</string>
+    <string name="ad_unavailable_body">часовий континуум пошкоджено,часовий потік недоступний. попробуй пізніше.</string>
+    <string name="ad_unavailable_title">небезпека.</string>
 
     <!-- Black hole activity -->
-    <string name="multiply_your_income">Multiply your income!</string>
-    <string name="current_income_multiplier">Current income multiplier : x</string>
-    <string name="new_income_multiplier">New income multiplier : x</string>
-    <string name="universe_big_enough">If your universe is big enough it can collapse and be consumed by Black Hole. Your new income will be calculated depending on your universe size</string>
+    <string name="multiply_your_income">збільши свій дохід!</string>
+    <string name="current_income_multiplier">поточний множник лоходу : x</string>
+    <string name="new_income_multiplier">новий множник доходу : x</string>
+    <string name="universe_big_enough">якщо твій світ занадто великий він може ослабнути і зниений чорною дірою.Твій новий дохід буде розрахований залежно від розміру твого світу</string>
     <string name="universe_disappear">Your entire universe will disappear</string>
     <string name="score_will_remain">Your score will remain</string>
     <string name="all_parts_removed">All universe parts will be removed, your game will start again but any income will be increased by your black hole multiplier</string>
